@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in China
-* ✉️  You can contact me at [shockingsrose@gmai.com](mailto:shockingsrose@gmai.com)
+* ✉️  You can contact me at [shockingsrose@gmail.com](mailto:shockingsrose@gmai.com)
 
 <a href="https://www.github.com/shockingsrose" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shockingsrose?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shockingsrose" target="_blank" rel="noreferrer"><img
